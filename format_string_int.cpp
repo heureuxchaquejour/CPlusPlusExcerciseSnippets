@@ -3,10 +3,10 @@
 #include <iostream>
 #include <cstdio>
 
-int main() {	
+int main() {
 	std::cout << "Why do programmers always mix up Halloween and Christmas?" << std::endl;
-	printf("Dec %d = Oct %o\n", 25, 25);
-	printf("I could play around with it, but Hex %xth in any mouth is not a well-know festival. :(\n", 25);
+	printf("Dec. %d = Oct. %o\n", 25, 031);
+	printf("I could play around with it, but Hex. %xth in any mouth is not a well-know festival. :(\n", 0x19);
 	// std::cout << "Because Oct 31 = Dec 25." << std::endl;
 	std::cin.get();
 }
