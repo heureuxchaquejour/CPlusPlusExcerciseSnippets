@@ -1,3 +1,5 @@
+// 2019年3月4日 星期一 中国标准时间 13:39:03
+// https://www.idtech.com/blog/part-i-top-10-programmer-jokes-explained-for-the-rest-of-us
 #include <iostream>
 #include <cstdio>
 
